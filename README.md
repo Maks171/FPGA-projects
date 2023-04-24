@@ -1,2 +1,2 @@
 # FPGA-projects
-FPGA projects written in Verliog HDL
+FPGA projects written in Verliog HDL during university course

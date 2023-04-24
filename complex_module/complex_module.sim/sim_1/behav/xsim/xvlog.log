@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/48576/Desktop/STUDIA/6 sem/SR/lab2/complex_module/complex_module.srcs/sources_1/new/complex_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module complex_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/48576/Desktop/STUDIA/6 sem/SR/lab2/complex_module/complex_module.srcs/sim_1/new/tb_complex_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_complex_module
